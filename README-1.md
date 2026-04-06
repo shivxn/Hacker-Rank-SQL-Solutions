@@ -1,6 +1,6 @@
 # HackerRank SQL Queries - CITY Table
 
-A collection of 5 progressive SQL queries on the CITY table, ranging from moderate to hard difficulty levels.
+A collection of progressive SQL queries on the CITY table, ranging from moderate to hard difficulty levels.
 
 ## 📋 Table of Contents
 
@@ -28,29 +28,19 @@ A collection of 5 progressive SQL queries on the CITY table, ranging from modera
 ## 🔍 Queries
 
 ### Q1: Get American cities from specific districts with population range
-- **Difficulty:** Moderate
 - **Concepts:** WHERE clause, IN operator, BETWEEN, ORDER BY
-- **File:** `queries.sql` (Query 1)
 
 ### Q2: Get American cities with population filter and multiple ordering
-- **Difficulty:** Moderate
 - **Concepts:** WHERE clause, Multiple ORDER BY, Column selection
-- **File:** `queries.sql` (Query 2)
 
 ### Q3: Find total population by district
-- **Difficulty:** Medium
 - **Concepts:** GROUP BY, SUM aggregation, ORDER BY
-- **File:** `queries.sql` (Query 3)
 
 ### Q4: Get cities above average population
-- **Difficulty:** Medium-Hard
 - **Concepts:** Subqueries, AVG aggregation, WHERE with subquery
-- **File:** `queries.sql` (Query 4)
 
 ### Q5: Find highest population city in each district
-- **Difficulty:** Hard
 - **Concepts:** Correlated subquery, MAX aggregation, Complex WHERE logic
-- **File:** `queries.sql` (Query 5)
 
 ---
 
