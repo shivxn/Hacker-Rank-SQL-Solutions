@@ -4,7 +4,7 @@
 -- ============================================================
 
 -- ============================================================
--- QUERY 1: Moderate Difficulty
+-- QUERY 1:
 -- Description: Get American cities from specific districts 
 --              with population between 50,000 and 500,000
 -- Concepts: WHERE, IN operator, BETWEEN, ORDER BY
@@ -21,7 +21,7 @@ ORDER BY POPULATION DESC;
 
 
 -- ============================================================
--- QUERY 2: Moderate Difficulty
+-- QUERY 2:
 -- Description: Get American cities with population > 100,000
 --              ordered by district and then by population
 -- Concepts: WHERE, Multiple ORDER BY, Column selection
@@ -36,7 +36,7 @@ ORDER BY DISTRICT, POPULATION DESC;
 
 
 -- ============================================================
--- QUERY 3: Medium Difficulty
+-- QUERY 3: 
 -- Description: Find the total population for each district 
 --              in USA, ordered by total population
 -- Concepts: GROUP BY, SUM aggregation, ORDER BY
@@ -52,7 +52,7 @@ ORDER BY total_population DESC;
 
 
 -- ============================================================
--- QUERY 4: Medium-Hard Difficulty
+-- QUERY 4: 
 -- Description: Get American cities with population greater 
 --              than the average population of all USA cities
 -- Concepts: Subqueries, AVG aggregation, WHERE with subquery
@@ -68,7 +68,7 @@ ORDER BY POPULATION DESC;
 
 
 -- ============================================================
--- QUERY 5: Hard Difficulty
+-- QUERY 5: 
 -- Description: Find the city with the highest population 
 --              in each district
 -- Concepts: Correlated subquery, MAX aggregation
@@ -83,5 +83,4 @@ WHERE COUNTRYCODE = 'USA'
 
 
 -- ============================================================
--- End of Queries
 -- ============================================================
