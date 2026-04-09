@@ -1,6 +1,6 @@
 # HackerRank SQL Queries - STATION Table
 
-A collection of 5 progressive SQL queries on the STATION table, ranging from easy to hard difficulty levels.
+A collection of progressive SQL queries on the STATION table, ranging from easy to hard difficulty levels.
 
 ## 📋 Table of Contents
 
