@@ -30,27 +30,22 @@ A collection of progressive SQL queries on the STATION table, ranging from easy 
 ## 🔍 Queries
 
 ### Q1: Get all stations in a specific state
-- **Difficulty:** Easy
 - **Concepts:** Basic SELECT, WHERE clause
 - **File:** `station_queries.sql` (Query 1)
 
 ### Q2: Get distinct cities with their state, ordered alphabetically
-- **Difficulty:** Easy
 - **Concepts:** DISTINCT, ORDER BY
 - **File:** `station_queries.sql` (Query 2)
 
 ### Q3: Find stations with latitude and longitude within specific range
-- **Difficulty:** Easy-Medium
 - **Concepts:** WHERE with multiple conditions, AND operator
 - **File:** `station_queries.sql` (Query 3)
 
 ### Q4: Find the station closest to a specific coordinate
-- **Difficulty:** Medium
 - **Concepts:** Distance calculation, ORDER BY, LIMIT
 - **File:** `station_queries.sql` (Query 4)
 
 ### Q5: Find the city and state with maximum distance between northernmost and westernmost points
-- **Difficulty:** Hard
 - **Concepts:** GROUP BY, Aggregation functions, Complex calculations
 - **File:** `station_queries.sql` (Query 5)
 
